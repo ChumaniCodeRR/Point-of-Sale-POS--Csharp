@@ -1,0 +1,17 @@
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Repository.dll.config
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Repository.dll
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Repository.pdb
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.DataAccess.dll
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Entity.dll
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Framework.dll
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.DataAccess.pdb
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.DataAccess.dll.config
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Entity.pdb
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Entity.dll.config
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Framework.pdb
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Framework.dll.config
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\obj\Debug\IMS.Repository.csproj.AssemblyReference.cache
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\obj\Debug\IMS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\obj\Debug\IMS.Repo.CFBEE51E.Up2Date
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\obj\Debug\IMS.Repository.dll
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Repository\obj\Debug\IMS.Repository.pdb

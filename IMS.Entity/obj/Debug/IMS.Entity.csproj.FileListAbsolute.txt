@@ -1,0 +1,7 @@
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Entity\bin\Debug\IMS.Entity.dll.config
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Entity\bin\Debug\IMS.Entity.dll
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Entity\bin\Debug\IMS.Entity.pdb
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Entity\obj\Debug\IMS.Entity.csproj.AssemblyReference.cache
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Entity\obj\Debug\IMS.Entity.csproj.CoreCompileInputs.cache
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Entity\obj\Debug\IMS.Entity.dll
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Entity\obj\Debug\IMS.Entity.pdb

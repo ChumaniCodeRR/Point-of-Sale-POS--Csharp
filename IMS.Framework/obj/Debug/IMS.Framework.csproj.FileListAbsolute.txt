@@ -1,0 +1,7 @@
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Framework\bin\Debug\IMS.Framework.dll.config
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Framework\bin\Debug\IMS.Framework.dll
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Framework\bin\Debug\IMS.Framework.pdb
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Framework\obj\Debug\IMS.Framework.csproj.AssemblyReference.cache
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Framework\obj\Debug\IMS.Framework.csproj.CoreCompileInputs.cache
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Framework\obj\Debug\IMS.Framework.dll
+C:\Users\s2100170\source\repos\NET-Point-of-Sale-POS--Csharp\.NET-Point-of-Sale-POS--Csharp\POS.InventoryManagementSystem\IMS.Framework\obj\Debug\IMS.Framework.pdb

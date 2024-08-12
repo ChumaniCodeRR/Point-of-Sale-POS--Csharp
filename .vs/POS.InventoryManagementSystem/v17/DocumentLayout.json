@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|c:\\users\\s2100170\\source\\repos\\net-point-of-sale-pos--csharp\\.net-point-of-sale-pos--csharp\\pos.inventorymanagementsystem\\ims.application\\userinterface\\orders\\invoicereport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\orders\\invoicereport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\orders\\formmakesale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\orders\\formmakesale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\orders\\formmakesale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\orders\\formmakesale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\orders\\invoicereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\orders\\invoicereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\orders\\formsaleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\orders\\formsaleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\category\\formvendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\category\\formvendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\category\\formvendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\category\\formvendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\category\\formvendor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\category\\formvendor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\category\\formbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\category\\formbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\category\\formbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\category\\formbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E6A23-9686-4593-90CC-5463100B2BB5}|IMS.Repository\\IMS.Repository.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.repository\\inventoryproducts\\categories\\brandsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6E6A23-9686-4593-90CC-5463100B2BB5}|IMS.Repository\\IMS.Repository.csproj|solutionrelative:ims.repository\\inventoryproducts\\categories\\brandsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B09D955-3E93-4EB5-A407-7FDD97675611}|IMS.DataAccess\\IMS.DataAccess.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.dataaccess\\inventoryproducts\\inventorydbdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B09D955-3E93-4EB5-A407-7FDD97675611}|IMS.DataAccess\\IMS.DataAccess.csproj|solutionrelative:ims.dataaccess\\inventoryproducts\\inventorydbdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\orders\\invoicereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\orders\\invoicereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\orders\\invoicereport.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\orders\\invoicereport.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\products\\formaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\products\\formaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E6A23-9686-4593-90CC-5463100B2BB5}|IMS.Repository\\IMS.Repository.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.repository\\inventoryproducts\\orders\\ordersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6E6A23-9686-4593-90CC-5463100B2BB5}|IMS.Repository\\IMS.Repository.csproj|solutionrelative:ims.repository\\inventoryproducts\\orders\\ordersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\category\\formmaincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\category\\formmaincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\category\\formmaincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\category\\formmaincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB543F6-AFB8-40CA-B0EA-39F18F0A9CC4}|IMS.Framework\\IMS.Framework.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.framework\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB543F6-AFB8-40CA-B0EA-39F18F0A9CC4}|IMS.Framework\\IMS.Framework.csproj|solutionrelative:ims.framework\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED38EB38-60AE-4512-86E8-9D9D8894321B}|IMS.Entity\\IMS.Entity.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.entity\\inventoryproducts\\orders\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED38EB38-60AE-4512-86E8-9D9D8894321B}|IMS.Entity\\IMS.Entity.csproj|solutionrelative:ims.entity\\inventoryproducts\\orders\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED38EB38-60AE-4512-86E8-9D9D8894321B}|IMS.Entity\\IMS.Entity.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.entity\\inventoryproducts\\products\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED38EB38-60AE-4512-86E8-9D9D8894321B}|IMS.Entity\\IMS.Entity.csproj|solutionrelative:ims.entity\\inventoryproducts\\products\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\ims.application\\userinterface\\barcode\\barcodemaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D866A38-37BC-4296-8B94-F44AC5D8C102}|IMS.Application\\IMS.Application.csproj|solutionrelative:ims.application\\userinterface\\barcode\\barcodemaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSalesHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Orders\\FormSalesHistory.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Orders\\FormSalesHistory.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Orders\\FormSalesHistory.cs [Design]",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Orders\\FormSalesHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:01:36.933Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMakeSale.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Orders\\FormMakeSale.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Orders\\FormMakeSale.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Orders\\FormMakeSale.cs [Design]",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Orders\\FormMakeSale.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:59:52.593Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMakeSale.cs",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Orders\\FormMakeSale.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Orders\\FormMakeSale.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Orders\\FormMakeSale.cs",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Orders\\FormMakeSale.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:59:49.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormVendor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Category\\FormVendor.Designer.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Category\\FormVendor.Designer.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Category\\FormVendor.Designer.cs",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Category\\FormVendor.Designer.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAFoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:21:09.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormVendor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Category\\FormVendor.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Category\\FormVendor.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Category\\FormVendor.cs [Design]",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Category\\FormVendor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:20:22.098Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormVendor.cs",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Category\\FormVendor.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Category\\FormVendor.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Category\\FormVendor.cs",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Category\\FormVendor.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAiwCcAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:20:18.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceReport.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Orders\\InvoiceReport.Designer.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Orders\\InvoiceReport.Designer.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Orders\\InvoiceReport.Designer.cs",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Orders\\InvoiceReport.Designer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:10:17.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvoiceReport.resx",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Orders\\InvoiceReport.resx",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Orders\\InvoiceReport.resx",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Orders\\InvoiceReport.resx",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Orders\\InvoiceReport.resx",
+              "ViewState": "AQIAAHwAAAAAAAAAAADwv4cAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-23T11:05:29.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvoiceReport.cs",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Orders\\InvoiceReport.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Orders\\InvoiceReport.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Orders\\InvoiceReport.cs",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Orders\\InvoiceReport.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvw4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:05:08.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Orders\\InvoiceReport.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Orders\\InvoiceReport.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Orders\\InvoiceReport.cs [Design]",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Orders\\InvoiceReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:05:03.08Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdersRepo.cs",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Repository\\InventoryProducts\\Orders\\OrdersRepo.cs",
+              "RelativeDocumentMoniker": "IMS.Repository\\InventoryProducts\\Orders\\OrdersRepo.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Repository\\InventoryProducts\\Orders\\OrdersRepo.cs",
+              "RelativeToolTip": "IMS.Repository\\InventoryProducts\\Orders\\OrdersRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:52:24.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormAddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Products\\FormAddProduct.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Products\\FormAddProduct.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Products\\FormAddProduct.cs",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Products\\FormAddProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:51:23.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Framework\\Validation.cs",
+              "RelativeDocumentMoniker": "IMS.Framework\\Validation.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Framework\\Validation.cs",
+              "RelativeToolTip": "IMS.Framework\\Validation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:51:12.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Entity\\InventoryProducts\\Orders\\Orders.cs",
+              "RelativeDocumentMoniker": "IMS.Entity\\InventoryProducts\\Orders\\Orders.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Entity\\InventoryProducts\\Orders\\Orders.cs",
+              "RelativeToolTip": "IMS.Entity\\InventoryProducts\\Orders\\Orders.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA5wCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:51:38.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Entity\\InventoryProducts\\Products\\Products.cs",
+              "RelativeDocumentMoniker": "IMS.Entity\\InventoryProducts\\Products\\Products.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Entity\\InventoryProducts\\Products\\Products.cs",
+              "RelativeToolTip": "IMS.Entity\\InventoryProducts\\Products\\Products.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:51:20.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormBrand.cs",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Category\\FormBrand.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Category\\FormBrand.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Category\\FormBrand.cs",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Category\\FormBrand.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAD4v7gAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:50:12.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrandsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Repository\\InventoryProducts\\Categories\\BrandsRepo.cs",
+              "RelativeDocumentMoniker": "IMS.Repository\\InventoryProducts\\Categories\\BrandsRepo.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Repository\\InventoryProducts\\Categories\\BrandsRepo.cs",
+              "RelativeToolTip": "IMS.Repository\\InventoryProducts\\Categories\\BrandsRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAJYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:49:40.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryDBDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.DataAccess\\InventoryProducts\\InventoryDBDataAccess.cs",
+              "RelativeDocumentMoniker": "IMS.DataAccess\\InventoryProducts\\InventoryDBDataAccess.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.DataAccess\\InventoryProducts\\InventoryDBDataAccess.cs",
+              "RelativeToolTip": "IMS.DataAccess\\InventoryProducts\\InventoryDBDataAccess.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAADwvz4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:45:50.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormMainCategory.cs",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Category\\FormMainCategory.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Category\\FormMainCategory.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Category\\FormMainCategory.cs",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Category\\FormMainCategory.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAMwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:45:34.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormMainCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Category\\FormMainCategory.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Category\\FormMainCategory.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Category\\FormMainCategory.cs [Design]",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Category\\FormMainCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:45:31.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormBrand.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Category\\FormBrand.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\Category\\FormBrand.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\Category\\FormBrand.cs [Design]",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\Category\\FormBrand.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:45:16.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BarCodeMaker.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\BarCode\\BarCodeMaker.cs",
+              "RelativeDocumentMoniker": "IMS.Application\\UserInterface\\BarCode\\BarCodeMaker.cs",
+              "ToolTip": "C:\\Users\\s2100170\\source\\repos\\NET-Point-of-Sale-POS--Csharp\\.NET-Point-of-Sale-POS--Csharp\\POS.InventoryManagementSystem\\IMS.Application\\UserInterface\\BarCode\\BarCodeMaker.cs [Design]",
+              "RelativeToolTip": "IMS.Application\\UserInterface\\BarCode\\BarCodeMaker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:43:57.884Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
